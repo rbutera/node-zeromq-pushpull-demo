@@ -26,4 +26,5 @@ Each **worker process** should:
   + Send a `ready` message out on the `PUSH socket`
 
 ## Running
+`npm install`
 `node --harmony pushpull.js`

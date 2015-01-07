@@ -1,0 +1,11 @@
+{
+  "name": "pushpull-demo",
+  "version": "1.0.0",
+  "description": "demonstration of zeromq (0MQ) using `PUSH`/`PULL` sockets (`0MQ`) and Node.js clustering techniques.",
+  "main": "pushpull.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rai Butera",
+  "license": "MIT"
+}
