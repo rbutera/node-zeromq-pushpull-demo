@@ -26,5 +26,7 @@ Each **worker process** should:
   + Send a `ready` message out on the `PUSH socket`
 
 ## Running
-`npm install`
-`node --harmony pushpull.js`
+
+1. Make sure `zmq` is installed on your system. OSX users using **Brew** can use `brew install zmq`
+2. `npm install`
+3. `node --harmony pushpull.js`

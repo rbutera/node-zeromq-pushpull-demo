@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rai Butera",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "zmq": "^2.9.0"
+  }
 }
