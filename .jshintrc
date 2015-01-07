@@ -1,0 +1,9 @@
+{
+  "esnext": true,
+  "node": true,
+  "globals": {
+    "require": true,
+    "process": true,
+    "console": true
+  }
+}
